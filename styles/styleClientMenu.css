@@ -83,6 +83,7 @@ main img{
 	max-width: 60px;
 	margin: 20px 3px;
 	padding: 9px;
+	text-align: center;
 }
 
 main img:hover{
@@ -110,4 +111,5 @@ footer{
 footer p{
 	font-size: 1em;
 	text-align: center;
+
 }
